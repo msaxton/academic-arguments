@@ -1,4 +1,4 @@
-## Writing an Academic Argument
+## Reading and Writing Academic Arguments
 
 
 ### Today's goals
