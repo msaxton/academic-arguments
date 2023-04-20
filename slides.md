@@ -1,10 +1,6 @@
-## Reading and Writing Academic Arguments
+## Writing an Academic Argument
 
-
-### Today's goals
-* Review the basic anatomy of an academic argument
-* Use the BEAM method to reflect on the various ways of incorporating sources into an academic argument
-
+### What makes an argument convincing?
 
 ### Anatomy of academic arguments
 * Claim
@@ -13,7 +9,7 @@
 * Warrant
 * Acknowledgement & Response
 
-"In a research argument, you make a _claim_, back it with _reasons_ supported by _evidence_, _acknowledge_ and _respond_ to other views, and sometimes explain your _principles_ of reasoning." (Booth et al. 112)
+"In a research argument, you make a _claim_, back it with _reasons_ supported by _evidence_, _acknowledge_ and _respond_ to other views, and sometimes explain your _principles_ of reasoning." (Booth et al. _The Craft of Research_, 112)
 
 #### Claim
 What do you want your reader to believe?
