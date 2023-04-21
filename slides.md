@@ -2,6 +2,7 @@
 
 ### What makes an argument convincing?
 
+
 ### Anatomy of academic arguments
 * Claim
 * Reasons
